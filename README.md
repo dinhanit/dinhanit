@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Pytorch,Django,HTML,CSS**
 
-- 📫 How to reach me **ngodinhan2k3@gmail.com**
+- 💬 Ask me about **AI model**
 
-- 📄 Know about my experiences [3rd year student](3rd year student)
+- 📫 How to reach me **ngodinhan2k3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
