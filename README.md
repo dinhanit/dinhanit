@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ngo Dinh An</h1>
 <h3 align="center">A Fresher AI at FPT Software</h3>
-- 🔭 I’m currently working on [Object Detection (RETNET)](https://github.com/dinhanit/Retnet_ObjectDetection_Pytorch)
-- 🌱 I’m currently learning **Pytorch,Django,HTML,CSS**
+
+<!---
+- 🔭 I’m currently working on [Object Detection (RETNET)](https://github.com/dinhanit/Retnet_ObjectDetection_Pytorch)-->
+
+  
+- 🌱 I’m currently learning **Pytorch, Django, HTML, CSS**
 
 - 💬 Ask me about **AI model**
 
